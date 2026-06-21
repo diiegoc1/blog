@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router-dom';
 import { CategoryPills } from '../components/CategoryPills';
-import { ArticleList } from '../components/ArticleCard';
+import { ArticleList } from '../components/articleCard';
 import { NewsletterForm } from '../components/NewsletterForm';
 
 export default function Home() {
